@@ -140,4 +140,4 @@ function trilaterate(p1, p2, p3, return_middle)
 	}
 }
 
-module.exports = trilaterate;
+export default trilaterate;
